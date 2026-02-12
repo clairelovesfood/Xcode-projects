@@ -1,13 +1,13 @@
- iOS App Project
+#iOS App Project
 
-Overview
+##Overview
 
 This project was developed during my tertiary studies at ITE as part of my iOS development coursework. The goal of this project was to apply Swift and Xcode fundamentals to build a functional mobile application with clean UI design and responsive interaction.
 
 The app demonstrates my ability to design, structure, and implement a working iOS interface while following good coding practices.
 
 
-Features
+#Features
 	•	Responsive UI built with Xcode Interface Builder / SwiftUI
 	•	Navigation between multiple screens
 	•	Interactive buttons and user inputs
@@ -15,7 +15,7 @@ Features
 	•	Clean layout optimized for different screen sizes
 
 
- Built With
+ ##Built With
 	•	Swift
 	•	Xcode
 	•	UIKit / SwiftUI
@@ -23,9 +23,9 @@ Features
 
 
 
-Learning Objectives
+#Learning Objectives
 
-Through this project, I practiced:
+##Through this project, I practiced:
 	•	iOS UI layout and constraints
 	•	Event handling and navigation
 	•	App structure and logic flow
